@@ -1,6 +1,6 @@
-# fetchworks
+# fetchrewards
 
-This repo is for the coding assessment of Fetch Works. Following Files serve as answers for the 4 questions,
+This repo is for the coding assessment of Fetch Rewards. Following Files serve as answers for the 4 questions,
 
 
 Q1 - [Click Here](https://github.com/mohitkorai/fetchworks/blob/master/FetchRewards.png)
